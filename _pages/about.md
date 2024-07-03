@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "YIXIN GUO RESEARCH GROUP (EARTH, OCEAN AND ATMOSPHERIC SCIENCES THRUST AT THE The HONG KONG UNIVERSITY OF SCIENCE & TECHNOLOGY (GUANGZHOU))"
+title: "YIXIN GUO RESEARCH GROUP"
 author_profile: true
 redirect_from: 
   - /about/
