@@ -22,11 +22,11 @@ repository               : "loveyixinguo.github.io/yixinguogroup.github.io"
 author:
   # Biographic information
   avatar           : "profile1.png"
-  name             : "Your Sidebar Name"
+  name             : "Yixin GUO 郭怡鑫"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "W4 L5 507 HKUST(GZ) No.1 Duxue Road, Nansha, Guangzhou, China"
-  employer         : "Hong Kong University of Science & Technology (Guangzhou)"
+  location         : "Guangzhou, China"
+  employer         : "HKUST（GZ)"
   uri              : # URL
   email            : "yixinguo@hkust-gz.edu.cn" 
 
