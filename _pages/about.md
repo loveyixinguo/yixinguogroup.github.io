@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "YIXIN GUO RESEARCH GROUP (EARTH, OCEAN AND ATMOSPHERIC SCIENCES THRUST AT THE The HONG KONG UNIVERSITY OF SCIENCE & TECHNOLOGY (GUANGZHOU))"
 author_profile: true
 redirect_from: 
   - /about/
